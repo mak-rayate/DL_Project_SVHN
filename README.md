@@ -9,12 +9,12 @@ For the capstone project, you will use the [SVHN dataset](http://ufldl.stanford.
 
 Your goal is to develop an end-to-end workflow for building, training, validating, evaluating and saving a neural network that classifies a real-world image into one of ten classes.
 
-#### Model prediction attributes
+#### Model performance on the test dataset
 
 Test loss: 0.232426717877388
 
 Test accuracy: 0.9415718913078308
 
-#### predicted output
+#### Predicted output
 
 ![](SVHN_output.png)
